@@ -1,0 +1,6 @@
+[submodule "cookbooks/myservice-frontend"]
+	path = cookbooks/myservice-frontend
+	url = https://github.com/opscode-cookbooks/cron.git
+[submodule "cookbooks/myservice-backend"]
+	path = cookbooks/myservice-backend
+	url = https://github.com/opscode-cookbooks/build-essential.git
